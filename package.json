@@ -1,0 +1,16 @@
+{
+  "name": "test_tech_art_back",
+  "author": "Tlemsani Sofiane",
+  "version": "1.0.0",
+  "description": "test technique BACKEND (Le bon artisans)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eslint": "^9.6.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  }
+}
